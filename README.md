@@ -67,10 +67,10 @@
 <p>These test card details simulate a successful payment and allow you to test the payment functionality without making actual charges to a credit card.</p>
 
 <h3>7. Order Confirmation and Tracking</h3>
-<p>After successfully placing your order, a confirmation popup will appear. Additionally, you can access the "Orders" section in your account to view all your orders.</p>
+<p>After successfully placing your order, a confirmation pop-up will appear. Additionally, you can access the "Orders" section in your account to view all your orders.</p>
 <hr>
 <h2>Video Demonstration</h2>
-<p>Watch a video demonstration of the Luv2Shop project here.</p>
+<p>Watch a video demonstration of the Luv2Shop project <a href="https://youtu.be/__lntV02m0Q">here.</a></p>
 <h2>Contact Information</h2>
 <p>If you have any questions, suggestions, or just want to get in touch, you can reach us at:</p>
 <ul>
