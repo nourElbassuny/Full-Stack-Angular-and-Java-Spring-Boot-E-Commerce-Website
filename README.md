@@ -1,4 +1,6 @@
 <h1>Full Stack E-Commerce Website with Angular and Spring Boot</h1>
+<h3>Project view</h3>
+
 <h3>Overview</h3>
 <hr>
 <p>This E-Commerce website, known as "Luv2Shop," is a full-stack application built with Angular and Java Spring Boot. It includes a wide range of features and functionalities necessary for a modern online store. The project is designed to showcase best practices in building robust and secure web applications using the technologies mentioned above.</p>
