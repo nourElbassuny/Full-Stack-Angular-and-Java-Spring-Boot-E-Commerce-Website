@@ -1,7 +1,7 @@
 <h1>Full Stack E-Commerce Website with Angular and Spring Boot</h1>
 <hr>
 <h3>Project view</h3>
-![Image_alt](https://github.com/nourElbassuny/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/e196c08f336f7a160f1db788b6bc0073c98f5e20/projectView.png)
+![Image](https://github.com/nourElbassuny/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/e196c08f336f7a160f1db788b6bc0073c98f5e20/projectView.png)
 <hr>
 <h3>Overview</h3>
 <hr>
